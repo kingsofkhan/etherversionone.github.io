@@ -55,9 +55,6 @@
     <p>
       So, why wait? Invite EtherV1 to your server today and experience the power and versatility of this incredible utility bot!
     </p>
-    <p>
-      For more information, visit the official website: <a href="https://www.example.com">www.example.com</a>
-    </p>
   </div>
 </body>
 </html>
