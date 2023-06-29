@@ -18,3 +18,5 @@ Invite EtherV1 to your server today and experience the power and versatility of 
 
 For more information, visit the [EtherV1 GitHub Repository](https://github.com/your-username/EtherV1) and get started with EtherV1.
 
+```{style="color: red;"}
+Note: EtherV1 is currently in development and new features are being added regularly.
